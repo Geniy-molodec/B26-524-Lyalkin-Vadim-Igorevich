@@ -1,0 +1,4 @@
+Python is a simple and powerful language.
+It is widely used for web development, data analysis, and automation.
+Learning it step by step makes programming easier.
+Practice every day and you will see progress.
